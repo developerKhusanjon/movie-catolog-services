@@ -1,2 +1,4 @@
 rootProject.name = 'movie-catolog-services'
 include 'movie-info-service'
+include 'movies-review-service'
+include 'streamer-service'
